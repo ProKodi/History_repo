@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# (OOP)\\3 lab - C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED5F02-2F6F-4BC8-ADAE-5CBC5B6BF73D}|3 lab\\3 lab.csproj|f:\\c# (oop)\\3 lab - c#\\3 lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79ED5F02-2F6F-4BC8-ADAE-5CBC5B6BF73D}|3 lab\\3 lab.csproj|solutionrelative:3 lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED5F02-2F6F-4BC8-ADAE-5CBC5B6BF73D}|3 lab\\3 lab.csproj|F:\\C# (OOP)\\3 lab - C#\\3 lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED5F02-2F6F-4BC8-ADAE-5CBC5B6BF73D}|3 lab\\3 lab.csproj|solutionrelative:3 lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED5F02-2F6F-4BC8-ADAE-5CBC5B6BF73D}|3 lab\\3 lab.csproj|F:\\C# (OOP)\\3 lab - C#\\3 lab\\logicclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED5F02-2F6F-4BC8-ADAE-5CBC5B6BF73D}|3 lab\\3 lab.csproj|solutionrelative:3 lab\\logicclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79ED5F02-2F6F-4BC8-ADAE-5CBC5B6BF73D}|3 lab\\3 lab.csproj|F:\\C# (OOP)\\3 lab - C#\\3 lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79ED5F02-2F6F-4BC8-ADAE-5CBC5B6BF73D}|3 lab\\3 lab.csproj|solutionrelative:3 lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\C# (OOP)\\3 lab - C#\\3 lab\\Form1.cs",
+              "RelativeDocumentMoniker": "3 lab\\Form1.cs",
+              "ToolTip": "F:\\C# (OOP)\\3 lab - C#\\3 lab\\Form1.cs",
+              "RelativeToolTip": "3 lab\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:25:32.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogicClass.cs",
+              "DocumentMoniker": "F:\\C# (OOP)\\3 lab - C#\\3 lab\\LogicClass.cs",
+              "RelativeDocumentMoniker": "3 lab\\LogicClass.cs",
+              "ToolTip": "F:\\C# (OOP)\\3 lab - C#\\3 lab\\LogicClass.cs",
+              "RelativeToolTip": "3 lab\\LogicClass.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwEEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:35:23.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# (OOP)\\3 lab - C#\\3 lab\\Program.cs",
+              "RelativeDocumentMoniker": "3 lab\\Program.cs",
+              "ToolTip": "F:\\C# (OOP)\\3 lab - C#\\3 lab\\Program.cs",
+              "RelativeToolTip": "3 lab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:16:46.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\C# (OOP)\\3 lab - C#\\3 lab\\Form1.cs",
+              "RelativeDocumentMoniker": "3 lab\\Form1.cs",
+              "ToolTip": "F:\\C# (OOP)\\3 lab - C#\\3 lab\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "3 lab\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:54:58.503Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
