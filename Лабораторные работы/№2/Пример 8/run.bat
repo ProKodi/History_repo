@@ -1,0 +1,2 @@
+javac MouseEvent2.java
+appletviewer MouseEvent2.html

@@ -1,0 +1,2 @@
+javac ParamUrlImage.java
+appletviewer ParamUrlImage.html
