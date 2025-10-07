@@ -1,0 +1,30 @@
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\bin\Debug\net8.0-windows\Project.exe
+D:\My applications\Shit programs\Lesson_repo_3\Denis\Project\bin\Debug\net8.0-windows\Project.deps.json
+D:\My applications\Shit programs\Lesson_repo_3\Denis\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\bin\Debug\net8.0-windows\Project.dll
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\bin\Debug\net8.0-windows\Project.pdb
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.sourcelink.json
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.dll
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\refint\Project.dll
+d:\My applications\Shit programs\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.pdb
+D:\My applications\Shit programs\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+D:\My applications\Shit programs\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\ref\Project.dll
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\bin\Debug\net8.0-windows\Project.exe
+C:\Разработки разработчика\Lesson_repo_3\Denis\Project\bin\Debug\net8.0-windows\Project.deps.json
+C:\Разработки разработчика\Lesson_repo_3\Denis\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\bin\Debug\net8.0-windows\Project.dll
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\bin\Debug\net8.0-windows\Project.pdb
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.sourcelink.json
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.dll
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\refint\Project.dll
+c:\Разработки разработчика\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.pdb
+C:\Разработки разработчика\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+C:\Разработки разработчика\Lesson_repo_3\Denis\Project\obj\Debug\net8.0-windows\ref\Project.dll
