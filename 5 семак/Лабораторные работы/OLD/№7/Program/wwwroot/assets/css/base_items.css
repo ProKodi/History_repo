@@ -1,0 +1,79 @@
+
+
+
+
+/* Добавление отступов с лева и права */
+.padding{
+    padding-left: 1%; 
+    padding-right: 1%; 
+}
+
+/* Для работы с блоком текста */
+.text_block{
+    padding-left: 1em;
+
+    ol, ul{
+        padding-left: 3em;
+        line-height: 1.2;
+    }
+}
+
+
+
+
+/* /// Ссылки  */
+a{
+    color: #837dfb;
+    transition: color 0.3s;
+}
+
+a:hover{ color: #6d94ff; }
+/* Добавляем реакцию на наводку на элемент */
+
+/* Сбор ссылок */
+nav{ a{ margin-left: 1rem; } }
+/* Для работы с ссылками альтернатива (оборачивать в div или p)*/
+.alt_link {
+    text-align: center;
+    color: #aaa;
+
+    a{ text-decoration: none;  }
+    
+    a:hover { text-decoration: underline; }
+}
+
+
+
+/* /// Заголовки, особый текст */
+h1, h2, h3, h4, h5, h6{
+    color: #837dfb;
+    font-weight: bold;
+}
+h1{font-size: 1.5rem;}
+h2{font-size: 1.40rem;}
+h3{font-size: 1.30rem;}
+h4{font-size: 1.20rem;}
+h5{font-size: 1.10rem;}
+h6{font-size: 1.05rem;}
+/* Надписи для виджетов/элементов страницы */
+label { font-weight: bold; }
+
+
+
+
+/* /// Кнопка */
+button{
+    padding: 0.70rem;
+    border-radius: 10px;
+    background-color:  #837dfb;
+    border: none;
+
+    color: white;
+    font-size: 1rem;
+
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+button:hover{
+   background-color: #6d94ff; 
+}

@@ -1,0 +1,37 @@
+C:\Users\Общее\Desktop\lab_11\bin\Debug\net9.0-windows\lab_11.exe
+C:\Users\Общее\Desktop\lab_11\bin\Debug\net9.0-windows\lab_11.deps.json
+C:\Users\Общее\Desktop\lab_11\bin\Debug\net9.0-windows\lab_11.runtimeconfig.json
+C:\Users\Общее\Desktop\lab_11\bin\Debug\net9.0-windows\lab_11.dll
+C:\Users\Общее\Desktop\lab_11\bin\Debug\net9.0-windows\lab_11.pdb
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.csproj.GenerateResource.cache
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.AssemblyInfoInputs.cache
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.AssemblyInfo.cs
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.csproj.CoreCompileInputs.cache
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.dll
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\refint\lab_11.dll
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.pdb
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.genruntimeconfig.cache
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\ref\lab_11.dll
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.MenuForm.resources
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.SpecialtyStudentsForm.resources
+C:\Users\Общее\Desktop\lab_11\obj\Debug\net9.0-windows\lab_11.StudentExamsForm.resources
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\bin\Debug\net9.0-windows\lab_11.exe
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\bin\Debug\net9.0-windows\lab_11.deps.json
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\bin\Debug\net9.0-windows\lab_11.runtimeconfig.json
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\bin\Debug\net9.0-windows\lab_11.dll
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\bin\Debug\net9.0-windows\lab_11.pdb
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.MenuForm.resources
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.SpecialtyStudentsForm.resources
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.StudentExamsForm.resources
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.csproj.GenerateResource.cache
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.AssemblyInfoInputs.cache
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.AssemblyInfo.cs
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.csproj.CoreCompileInputs.cache
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.sourcelink.json
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.dll
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\refint\lab_11.dll
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.pdb
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\lab_11.genruntimeconfig.cache
+C:\Shit program\Lesson_repo_3\5 семак\Лабораторные работы\№8\Front\lab_11\obj\Debug\net9.0-windows\ref\lab_11.dll

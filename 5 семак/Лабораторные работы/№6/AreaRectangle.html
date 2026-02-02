@@ -1,0 +1,46 @@
+
+
+
+<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+    <meta charset = "utf-8">
+    <title>Площадь прямоугольника</title>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+</head>
+<body>
+    <header></header>
+    <main>
+        <h1> Площадь прямоугольника </h1>
+        <p>a = <input id = "a" type = "number"></p>
+        <p>b = <input id = "b" type = "number"></p>
+
+        <p>S = <input id = "res" type = "text" readonly></p>
+
+        <button id = "calc">Вычислить</button>
+        <button><a href = "Area.html">Возрат на главную</a></button>
+
+    </main>
+    <footer></footer>
+</body>
+</html>
+
+
+<script defer>
+    function calc(){
+        let a = Number($("#a").val());
+        let b = Number($("#b").val());
+
+        if(a < 0 || b < 0){
+            alert("Были введены отричательные числа/число")
+            $("#res").val("")
+            return;
+        }   
+        res =  a * b
+        $("#res").val(res)
+    }
+
+    $("#calc").click(calc);
+</script>

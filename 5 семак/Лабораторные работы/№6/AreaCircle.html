@@ -1,0 +1,44 @@
+
+
+
+<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+    <meta charset = "utf-8">
+    <title>Площадь круга</title>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+</head>
+<body>
+    <header></header>
+    <main>
+        <h1> Площадь круга </h1>
+        <p>r = <input id = "r" type = "number"></p>
+
+        <p>S = <input id = "res" type = "text" readonly></p>
+
+        <button id = "calc">Вычислить</button>
+        <button><a href = "Area.html">Возрат на главную</a></button>
+
+    </main>
+    <footer></footer>
+</body>
+</html>
+
+<script defer>
+    function calc(){
+        let r = Number($("#r").val());
+
+        if(r < 0 ){
+            alert("Были введены отричательные числа/число")
+            $("#res").val("")
+            return;
+        }
+
+        res =  (r * r) * Math.PI
+        $("#res").val(res)
+    }
+
+    $("#calc").click(calc);
+</script>

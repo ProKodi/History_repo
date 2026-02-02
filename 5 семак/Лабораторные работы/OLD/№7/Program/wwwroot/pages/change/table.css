@@ -1,0 +1,62 @@
+
+
+
+
+
+
+main{
+    table{
+        border-collapse: collapse; /* убираем двойные линии */
+        border: 1px solid #6C63FF; /* одна линия слева */
+
+        width: 98vw;   
+        
+
+        th, td {
+            /* max-width: 200px; */
+            max-width: 7vw;
+            word-wrap: break-word;    /* перенос длинных слов */
+            white-space: normal;      /* позволяет переносить строки */
+            
+            border: 1px solid #6C63FF; /* вертикальные линии */
+            padding: 2px 4px;
+        }
+
+        thead th {
+            background: #262641;
+            border: 1px solid #6C63FF;
+            position: sticky;
+            top: 50px;
+        }
+
+
+
+    }
+}
+
+/* Стиль плашки кнопок снизу страницы */
+.command_row{
+    background: #1B1B2F;
+    width: 100%;  
+
+    margin-top: 1%; 
+    padding-right: 1%;
+
+    display: flex;
+    justify-content: flex-end; /* выравниваем по правому краю */
+    gap: 1%; /* расстояние между элементами */
+
+    position: sticky;
+    bottom: 0px;
+}
+
+
+
+#popupForm label {
+  display:block;
+  margin-bottom:10px;
+}
+#popupForm button {
+  margin-top:10px;
+  margin-right:5px;
+}

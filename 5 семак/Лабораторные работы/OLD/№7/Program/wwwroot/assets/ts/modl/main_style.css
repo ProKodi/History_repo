@@ -1,0 +1,142 @@
+
+
+
+
+
+
+/* Работа с окном формы */
+#window_form{
+    /* Устанавливаем растяжение окна*/
+    min-width: 100vw;
+    min-height: auto;
+
+  /* Пользовательские настройки */
+  background: #ffffff;
+}
+
+/* Работа с полем формы */
+#data_form {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+
+/* Работа с хедером формы */
+#data_form_header{
+    /*.item_to_center{
+        display: flex;
+        justify-self: center;
+    }*/
+    margin-top: 2rem;
+}
+
+
+
+/* Таблица формы */
+#table_form{
+    width: 100%;
+
+}
+
+
+
+/* Работа с шапкой таблицы */
+#table-head {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+
+    /* Настройка контейнера строки */
+    tr{
+        width: 100%;
+        display: flex;
+        align-items: stretch;
+        flex-wrap: nowrap;
+
+        .first_col{ width: 20%; }
+
+        .second_col{ width: 80%; }
+    }
+    /* Настройка текста в заголовке */
+    th{
+        text-align: left;
+        color: rgb(51 65 85 / 1);
+        font-weight: 900;
+    }
+}
+
+
+/* Работа с телом таблицы */
+#table-body{
+    padding: 0%;
+    margin: 0%;
+    /* Настройка контейнера строки */
+    tr{
+        width: 100%;
+        display: flex;
+        align-items: stretch;
+        flex-wrap: nowrap;
+
+        .first_col{ width: 20%; }
+
+        .second_col{ width: 80%; }
+    }
+
+    /* Работа с каждой ячейкой таблицы */
+    td{
+        padding-top: 0.3rem;
+        padding-bottom: 0.3rem;
+    }
+    
+    label, p{
+        width: 100%;
+    }
+
+    input, textarea{
+        border-color: rgb(203 213 225 / 1);
+        border-radius: 0.375rem;
+        border-width: 2px;
+
+        width: 100%;
+        
+        resize: vertical;
+        height: 2rem;
+    }
+
+    input:focus{
+        border-color: rgb(59 130 246 / 1);
+        outline: 2px solid transparent;
+        outline-offset: 2px;
+    }
+}
+
+
+/* Работа с строкой кнопок */
+#row_bt{
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+
+    button{
+        height: 2rem;
+        display: inline-flex;
+        align-items: center;
+
+        border-width: 1px;
+        border-radius: 0.5rem;
+
+        transition-duration: 150ms;
+    }
+
+
+    #bt_save{ background:#246cb4; }
+
+    #bt_save:hover{ background:#318CE7; }
+
+
+    #bt_close:hover{ background:#EB4C42; }
+
+}

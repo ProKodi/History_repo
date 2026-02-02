@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|c:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\connection_lab\\editingandviewingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|solutionrelative:editingandviewingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|c:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\connection_lab\\editingandviewingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|solutionrelative:editingandviewingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|c:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\connection_lab\\prequestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|solutionrelative:prequestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\prequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|solutionrelative:prequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|c:\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\connection_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F8956CF-51E7-4E79-A522-2EFFD1F7BC48}|Connection_lab.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PRequestForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\PRequestForm.Designer.cs",
+              "RelativeDocumentMoniker": "PRequestForm.Designer.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\PRequestForm.Designer.cs",
+              "RelativeToolTip": "PRequestForm.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:54:20.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditingAndViewingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\EditingAndViewingForm.cs",
+              "RelativeDocumentMoniker": "EditingAndViewingForm.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\EditingAndViewingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "EditingAndViewingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:39:12.811Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditingAndViewingForm.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\EditingAndViewingForm.cs",
+              "RelativeDocumentMoniker": "EditingAndViewingForm.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\EditingAndViewingForm.cs",
+              "RelativeToolTip": "EditingAndViewingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:48:28.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PRequestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\PRequestForm.cs",
+              "RelativeDocumentMoniker": "PRequestForm.cs",
+              "ToolTip": "C:\\Users\\\u041E\u0431\u0449\u0435\u0435\\Desktop\\Connection_lab\\PRequestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u041E\u0431\u0449\u0435\u0435\\Desktop\\Connection_lab\\PRequestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:39:32.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\\u041E\u0431\u0449\u0435\u0435\\Desktop\\Connection_lab\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\\u041E\u0431\u0449\u0435\u0435\\Desktop\\Connection_lab\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:46:36.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A\u0430\\Lesson_repo_3\\5 \u0441\u0435\u043C\u0430\u043A\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u21167 (front)\\Connection_lab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:07:11.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
