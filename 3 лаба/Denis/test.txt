@@ -1,0 +1,7 @@
+
+
+reverse_words("Hello world Prolog", Result).
+
+reverse_words("Привет мир", Result).
+
+reverse_words("Какая-то строка и текст в ней", Result).

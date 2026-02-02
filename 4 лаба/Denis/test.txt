@@ -1,0 +1,29 @@
+
+
+
+
+
+main(Result).
+
+min(3, 7, 2, Min),
+max(6, 5, 9, Max),
+Result is Min + Max.
+
+min(2, 5, 9, Min),
+max(4, 9, 7, Max),
+Result is Min + Max.
+
+
+main().
+
+min(a, b, s) + max(b, c, d)
+a = 3
+b = 4
+s = 1
+c = 8
+d = 9
+
+
+min(3, 4, 1) + max(4, 8, 9)
+
+
