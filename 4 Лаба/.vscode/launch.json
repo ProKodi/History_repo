@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run InitTest",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}\\Test\\MainTest.py",
+            "console": "integratedTerminal"
+        },
+
+        {
+            "name": "Run program",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}\\Code\\Program.py",
+            "console": "integratedTerminal"
+        },
+    ]
+}
