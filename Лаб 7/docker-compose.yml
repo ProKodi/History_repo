@@ -1,0 +1,41 @@
+
+services:
+  mongo:
+    image: mongo:7
+    container_name: mongo
+    restart: always
+    volumes:
+      - mongo_data:/data/db
+    ports:
+      - "27017:27017"
+
+  app:
+    build: ./Code
+    container_name: dotnet_app
+    restart: always
+    depends_on:
+      - mongo
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+      - Mongo__ConnectionString=mongodb://mongo:27017
+    ports:
+      - "8080:8080"
+
+  caddy:
+    image: caddy:2
+    container_name: caddy
+    restart: always
+    depends_on:
+      - app
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./caddy/Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  mongo_data:
+  caddy_data:
+  caddy_config:

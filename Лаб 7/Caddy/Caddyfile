@@ -1,0 +1,3 @@
+:80 {
+    reverse_proxy dotnet_app:8080
+}

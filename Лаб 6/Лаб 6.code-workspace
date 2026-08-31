@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Code/Program"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Лаб 6"
+	}
+}
